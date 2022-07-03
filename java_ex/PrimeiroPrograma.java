@@ -1,5 +1,5 @@
 public class PrimeiroPrograma{  
-    public static void main(String args[]) {  
-       System.out.println("Hello Word!");     
+    public static void main(String args[]) {  /* psvm */
+       System.out.println("Hello Word!");   /* sout */ 
     } 
  }
